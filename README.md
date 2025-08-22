@@ -1,6 +1,6 @@
 # SWE-4604-Software-Testing-and-Quality-Assurance-Lab
 
-Overview
+Overview: 
 This repository showcases hands-on experience with various testing techniques, tools and frameworks conducted for the lab tasks of SWE 4604 course. Each lab focuses on different aspects of software testing, including unit testing, API testing, performance testing, UI automation and systematic test design.
 
 Lab Tasks
@@ -22,7 +22,7 @@ Developed and automated comprehensive UI test cases for a live e-commerce websit
 JavaScript Unit Testing with Jest – Equivalence Class Testing
 Applied systematic unit testing techniques in JavaScript using Jest to validate business logic through Strong Normal, Weak Robust, and Strong Robust equivalence class test cases. Designed and implemented a suite of automated tests for the validateSalesInput function, ensuring thorough input validation and robust error handling for various boundary and invalid conditions. Demonstrated proficiency in structured test design, test automation, and quality assurance for reliable software development.
 
-Getting Started
+Getting Started - 
 For running test cases:
 
 JUnit: Import into your Java IDE and run as JUnit test.
